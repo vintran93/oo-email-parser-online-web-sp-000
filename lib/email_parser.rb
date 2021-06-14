@@ -5,4 +5,4 @@
 
 class EmailAddressParser
   
-  attr
+  attr_accessor
